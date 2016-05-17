@@ -1,0 +1,41 @@
+h1,h3{
+	color: white
+}
+.home h1{
+	font-size: 48px;
+}
+.home h3{
+	font-weight: 200;
+	margin-top: 0px;
+}
+.home{
+	margin-top: 20%;
+	margin-bottom: 10%;
+}
+.content{
+	background-color: rgb(225,225,225);
+	padding-top: 100px;
+}
+.content img{
+	width: 300px;
+	height: 300px;
+	margin-bottom: 20px;
+}
+.circle {
+	border-radius: 50%;
+	width: 200px;
+	height: 200px; 
+	background-color: white;
+}
+footer{
+	background-color: white;
+}
+footer h2{
+	color: rgb(50,50,50);
+}
+footer p{
+	color: #3f85ba;
+}
+footer img{
+	width: 200px;
+}
